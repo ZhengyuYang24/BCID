@@ -30,7 +30,6 @@ BCID_Dataset/
 │   ├── images/          # Validation images (209 files)
 │   └── masks/           # Pixel-level annotations (209 files)
 ├── test/
-│   ├── images/          # Test images (210 files)
-│   └── masks/           # Pixel-level annotations (210 files)
-└── splits/
-    └── fixed_split.txt  # Explicit file list to ensure reproducibility
+    ├── images/          # Test images (210 files)
+    └── masks/           # Pixel-level annotations (210 files)
+
