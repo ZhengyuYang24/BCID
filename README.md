@@ -31,3 +31,14 @@ BCID_Dataset/
 └── test/
     ├── images/          # Test images (210 files)
     └── masks/           # Pixel-level annotations (210 files)
+```
+
+## 🖼️ Sample Previews
+*Here are a few examples demonstrating the diversity of the concrete backgrounds and the high fidelity of our manual annotations.*
+
+| Original Image | Ground Truth Mask |
+| :---: | :---: |
+| <img src="docs/sample1_img.jpg" width="300"/> | <img src="docs/sample1_mask.png" width="300"/> |
+| <img src="docs/sample2_img.jpg" width="300"/> | <img src="docs/sample2_mask.png" width="300"/> |
+
+*(Note: The full dataset and explicitly defined split files will be uploaded upon the acceptance of our manuscript.)*
