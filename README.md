@@ -4,7 +4,6 @@
 ![Dataset Size: 2092](https://img.shields.io/badge/Dataset%20Size-2092%20Images-blue)
 ![Task: Semantic Segmentation](https://img.shields.io/badge/Task-Semantic%20Segmentation-brightgreen)
 
-
 ---
 
 ## 📖 Introduction
@@ -29,7 +28,6 @@ BCID_Dataset/
 ├── val/
 │   ├── images/          # Validation images (209 files)
 │   └── masks/           # Pixel-level annotations (209 files)
-├── test/
+└── test/
     ├── images/          # Test images (210 files)
     └── masks/           # Pixel-level annotations (210 files)
-
