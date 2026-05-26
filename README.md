@@ -38,7 +38,8 @@ BCID_Dataset/
 
 | Original Image | Ground Truth Mask |
 | :---: | :---: |
-| <img src="img/sample1.jpg" width="300"/> | <img src="img/sample1_mask.png" width="300"/> |
-| <img src="img/sample2.jpg" width="300"/> | <img src="img/sample2_mask.png" width="300"/> |
+| <img src="img/sample1.png" width="300"/> | <img src="img/sample1_mask.png" width="300"/> |
+| <img src="img/sample2.png" width="300"/> | <img src="img/sample2_mask.png" width="300"/> |
+| <img src="img/sample3.png" width="300"/> | <img src="img/sample3_mask.png" width="300"/> |
 
 *(Note: The full dataset and explicitly defined split files will be uploaded upon the acceptance of our manuscript.)*
